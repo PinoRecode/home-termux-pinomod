@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ibb.co/ZSRx8w2" alt="OPEN MEMBER NIH SARAT CHAT BWANG PINO AJA" width="300" />
+<a href="https://ibb.co/ZSRx8w2"><img src="https://i.ibb.co/ZSRx8w2/TXTO-ALL-MEMBER.png" alt="TXTO-ALL-MEMBER" border="0" width="300"></a>
 
 >
 >
@@ -14,9 +14,7 @@
 
 ```bash
 
-> Cara Setting Tampilan Depan Termux Menjadi Lebih Keren
-> Alat untuk mengubah tampilan depan termux atau bilah alat termux menjadi lebih keren coba kalian unduh dulu aplikasi termux nya di play store gratis lalu kalau sudah kalian harus menginstal bahan2 nya dulu di aplikasi termux nya 
-> bahan2 nya adalah:
+> Cara Setting Tampilan Termux Menjadi Lebih Keren:v
 
 ```
 
@@ -28,7 +26,7 @@
 > $ pkg install python2
 > $ pkg install bash
 
-> jika bahan-bahan di atas sudah terinstall kalian ketikan eksekusi caranya.
+> jika bahan-bahan di atas sudah terinstall kalian ketikan eksekusi.
 > caranya adalah:
 
 > $ pkg install git
