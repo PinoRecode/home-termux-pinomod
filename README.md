@@ -31,7 +31,7 @@
 
 > $ pkg install git
 > $ git clone https://github.com/nizambot/home-termux-pinomod
-> $ home-termux-pinomod
+> $ cd home-termux-pinomod
 > $ ls
 > $ python2 run.py
 
