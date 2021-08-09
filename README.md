@@ -6,7 +6,7 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/nizambot/"><img title="Author" src="https://img.shields.io/badge/Author-PINODEV-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/PinoRecode/"><img title="Author" src="https://img.shields.io/badge/Author-PINOXCODE-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   <a href="https://wa.me/6285869484139"> CHAT DEVELOPER </a>
 </h4>
@@ -30,7 +30,7 @@
 > caranya adalah:
 
 > $ pkg install git
-> $ git clone https://github.com/nizambot/home-termux-pinomod
+> $ git clone https://github.com/PinoRecode/home-termux-pinomod
 > $ cd home-termux-pinomod
 > $ ls
 > $ python2 run.py
