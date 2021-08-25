@@ -1,6 +1,6 @@
 <h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm pino modz 😇 </h1>
 <p align="center">
-  <img src="https://a.top4top.io/p_2046lkmta0.png" />
+  <img src="https://d.top4top.io/p_2059mc6d10.png" />
 </p>
 
 - 👼 My name is Pino 
@@ -23,9 +23,9 @@
 <p align="center"><a href="https://github.com/PinoRecode"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoRecode&theme=radical&layout=compact"></a></p> 
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=ABOUT&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=Bot-Wa&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=home-termux-pinomod&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=ABOUT&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=Bot-Wa&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=home-termux-pinomod&theme=nightowl)
 
 
@@ -49,6 +49,7 @@
 ![Metrics](https://metrics.lecoq.io/PinoRecode?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
 
 </details>
+
 <p>
 
 >
